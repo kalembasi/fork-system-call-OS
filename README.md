@@ -1,1 +1,1 @@
-# fork-system-call-OS
+"fork()" system call to create a specific process hierarchy given in the figure at "Assignment.pdf" file. Getting better at handling fork system calls provides a better understanding of process management in operating systems which is quite useful for parallel programming and resource management.
